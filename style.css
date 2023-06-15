@@ -1,0 +1,13 @@
+.wrab{
+    background-color: rgba(225,225,225,0.7);
+    width: 600px;
+    color: black;
+    margin: 20px auto;
+    padding: 15px;
+}
+div a{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    color: #fff;
+}
